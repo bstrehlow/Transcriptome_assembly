@@ -1,0 +1,7 @@
+These scripts were used for trimming, assembly and annotation of transcriptomes for the marine sponges (Porifera) Carteriospongia foliascens and Cliona orientalis as well as Gerakladium endoclionum (algal endosymbiont of C. orientalis).
+
+Scripts provided here were modified from ones written by M. Matz https://github.com/z0on , E. Meyer https://github.com/Eli-Meyer , and C. Kenkel https://github.com/ckenkel/assemblingTranscriptomes .
+
+Raw data can be accessed on NCBI’s SRA under accession numbers PRJNA639714 and PRJNA639798 for the C. orientalis holobiont and C. foliascens, respectively. Assemblies can be accessed here: https://www.dropbox.com/sh/82ue5l16n4xzxww/AABENUi-Cdbm_z-6x4Gj3qICa?dl=0 .
+
+See the following reference for more information on samples and assembly: Strehlow BW, Pineda MC, Kenkel CD, Laffy P, Duckworth A, Renton M, Clode PL, Webster NS. 2020. Novel reference transcriptomes for the sponges Carteriospongia foliascens and Cliona orientalis and associated algal symbiont Gerakladium endoclionum. bioRxiv 2020.06.26.156463. Please cite said reference if you use this resource.
